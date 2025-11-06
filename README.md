@@ -63,5 +63,39 @@ Loja 04: Guitarra, Guarda-Roupas, Violão, Geladeira e Livro - Ciências de dado
 
 Loja 01 tem frete médio com valor mais elevado enquanto a loja 04 tem valor de frete médio mais baixo, Lojas 02 e 03 tem frete médio semelhantes.
 
+### Análise de Desempenho Geográfico
+
+![Desempenho_geografico](https://github.com/JNarimatsu/assets/raw/main/Concentracao_06.png)
+
+#### Loja 1:
+  • Vendas: 2359
+  • Área coberta: 1072.456800°
+  • Densidade: 2.20 vendas/°²
+  • Dispersão: 9.5536
+  • Score eficiência: 0.23
+
+#### Loja 2:
+  • Vendas: 2359
+  • Área coberta: 1092.153600°
+  • Densidade: 2.16 vendas/°²
+  • Dispersão: 9.4881
+  • Score eficiência: 0.23
+
+#### Loja 3:
+  • Vendas: 2359
+  • Área coberta: 1092.153600°
+  • Densidade: 2.16 vendas/°²
+  • Dispersão: 9.6610
+  • Score eficiência: 0.22
+
+#### Loja 4:
+  • Vendas: 2358
+  • Área coberta: 900.345800°
+  • Densidade: 2.62 vendas/°²
+  • Dispersão: 9.5902
+  • Score eficiência: 0.27
+
+**Loja 4 tem a estratégia mais eficiente. Pois apresenta alta densidade de vendas com boa concentração geográfica**
+
 ## Conclusão
-Pelo que pudemos analisar a loja 04 se destaca para venda, seu faturamento é abaixo das demais lojas e comparando com a loja com maior faturamento, temos uma diferença de 150 mil reais. A loja 04 também não se destaca nas avaliações, Apresenta um perfil de vendas um pouco diferente das demais. O valor médio de frete para loja 04 é a menor, mas esse fator não se mostra como decisivo para melhorar seu faturamento. Por esses motivos a loja 04 apresenta mais fatores que a tornam mais adequadas para a venda.
+Apesar de observamos o menor faturamento, a loja 04 se destaca com Alta densidade de vendas e boa concentração geográfica, suas avaliações não são baixas em comparação com as demais notas e temos uma valor de frete médio abaixo das demais lojas analisadas, a loja quatro apresenta o Score de eficiência mais elevados também. Quando observamos as outras três lojas, todas apresentam perfil de vendas similiar, isso em conjunto com a área de atuação proxima. Com isso em mente, podemos verificar que as lojas um e dois tem o mesmo Score de eficiência, enquanto a loja três tem uma diferença um pouco menor. As lojas três e dois apresentam as melhores avaliações de vendas e o valor do frete médio são similares. Já na loja um temos uma cenário um pouco diferente, a loja um conta com a avaliação mais baixa e o frete mais elevado. Podemos observar muitas semelhanças entre as lojas três e dois, sua área de atuação, produtos e categorias similares de venda, esses fatores me mostram um forte potencial de canibalização entre essas duas lojas, visto que a loja dois tem tem faturamento e o scrore de eficiência um pouco mais elevado que a loja três, **eu indicaria a loja três para venda.** Isso manteria o alto faturamento da loja um, a alta densidade e boa concentração de vendas da loja quatro e além do faturamento e boa relação com os cliente que temos na loja dois.
