@@ -24,10 +24,10 @@ A média das avaliações tem poucas variações, mas é possível verificar que
 ![Avaliacao_media](https://github.com/JNarimatsu/assets/raw/main/Avaliacao_03.png)
 
 ### Produtos mais e menos vendidos
-#### Mais vendidos
+
 
 ![Mais_vendidos](https://github.com/JNarimatsu/assets/raw/main/Produtos_vendidos04.png)
-
+#### Mais vendidos
 Loja 01: Microondas, Tv Led UHD 4K e Guarda-Roupas (60), Secadora de roupas e Blocos de montar;
 
 Loja 02: Livro - Iniciando em programação, Microondas, Batedeira, Pandeiro e Violão;
@@ -36,10 +36,10 @@ Loja 03: kit baquetas, Mesa de jantar, Cama King (56), Cômoda e Jogo de panelas
 
 Loja 04: Cama box, Faqueiro, Cama king e Livro - Dashboards com Power BI(56) e Carrinho de controle remoto;
 
-#### Menos Vendidos
+
 
 ![Menos_vendidos](https://github.com/JNarimatsu/assets/raw/main/Produto_vendidos04_menos.png)
-
+#### Menos Vendidos
 Loja 01: Celular ABXY, Headset(33), Panela de pressão, Pandeiro e Livro - Ciências de dados com Python;
 
 Loja 02: Jogo de tabuleiro, Mesa de jantar, Impressora, Poltrona e Fone de ouvido;
